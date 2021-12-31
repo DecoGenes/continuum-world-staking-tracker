@@ -1,1 +1,1 @@
-# continuum-world-staking-traker
+# continuum-world-staking-tracker
